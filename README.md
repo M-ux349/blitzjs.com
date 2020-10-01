@@ -1,3 +1,5 @@
+Logr - An Amazing Project
+
 # Blitzjs.com - Website & Docs
 
 ## Website
